@@ -54,7 +54,7 @@ if __name__ == "__main__":
                 try:
                     ipv4 = resolve(domain)
                     if ipv4 is not None:
-                        hosts_file.write(f"{ipv4:{15}}\t{domain}\n")
+                        hosts_file.write(f"{domain}\t{ipv4}\n")
                 except ValueError as e:
                     print(e)
                 pbar.update(1)
