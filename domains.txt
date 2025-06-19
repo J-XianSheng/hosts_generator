@@ -15,3 +15,5 @@ avatars.akamai.steamstatic.com
 community.steamstatic.com
 store.akamai.steamstatic.com
 steamcommunity-a.akamaihd.net
+ws-api.binance.com
+stream.binance.com
