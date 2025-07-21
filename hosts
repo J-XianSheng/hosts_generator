@@ -1,5 +1,5 @@
 steam-chat.com	23.2.95.19
-steamcdn-a.akamaihd.net	104.123.153.24
+steamcdn-a.akamaihd.net	104.123.153.18
 steamcommunity.com	23.60.136.72
 www.steamcommunity.com	23.2.95.19
 media.steampowered.com	104.123.153.18
@@ -8,12 +8,12 @@ api.steampowered.com	23.60.136.72
 help.steampowered.com	23.60.136.72
 login.steampowered.com	23.60.136.72
 checkout.steampowered.com	23.0.217.190
-cdn.cloudflare.steamstatic.com	104.18.42.105
-cdn.akamai.steamstatic.com	104.123.153.24
+cdn.cloudflare.steamstatic.com	172.64.145.151
+cdn.akamai.steamstatic.com	104.123.153.18
 community.akamai.steamstatic.com	104.123.153.8
-avatars.akamai.steamstatic.com	104.123.153.32
-community.steamstatic.com	151.101.195.52
-store.akamai.steamstatic.com	104.123.153.18
-steamcommunity-a.akamaihd.net	104.123.153.32
-ws-api.binance.com	52.195.64.226
-stream.binance.com	57.180.3.102
+avatars.akamai.steamstatic.com	104.123.153.11
+community.steamstatic.com	151.101.3.52
+store.akamai.steamstatic.com	104.123.153.24
+steamcommunity-a.akamaihd.net	104.123.153.8
+ws-api.binance.com	54.248.98.22
+stream.binance.com	57.180.161.88
